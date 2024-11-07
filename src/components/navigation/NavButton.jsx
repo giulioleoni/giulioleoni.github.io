@@ -42,7 +42,6 @@ const NavButton = ({ x, y, label, link, icon, newTab, labelDirection='right' }) 
         <ResponsiveComponent>
             {({ size }) => {
                 return size && size >= 480 ?
-
                 <div 
                 className='absolute cursor-pointer z-50'
                 style={{ transform: `translate(${x}, ${y})` }}
@@ -50,7 +49,7 @@ const NavButton = ({ x, y, label, link, icon, newTab, labelDirection='right' }) 
                     <MotionLink 
                         variants = {item}
                         href={link} 
-                        target={newTab ? '_blank' : '_self'}
+                        target={'_blank'}
                         className='text-foreground rounded-full flex items-center justify-center custom-bg'
                         aria-label={label}
                         name={label} >
@@ -74,7 +73,8 @@ const NavButton = ({ x, y, label, link, icon, newTab, labelDirection='right' }) 
                 >
                     <MotionLink 
                         variants = {item}
-                        href={link} target={newTab ? '_blank' : '_self'}
+                        href={link} 
+                        target={'_blank'}
                         className='text-foreground rounded-full flex items-center justify-center custom-bg'
                         aria-label={label}
                         name={label} >
