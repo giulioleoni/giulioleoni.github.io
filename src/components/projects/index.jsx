@@ -46,9 +46,9 @@ const container = {
         }
     }
 }
- 
 
-const AboutDetails = () => {
+
+const ProjectsDetails = () => {
     return (
         <section
         className="py-20 w-full">
@@ -177,7 +177,7 @@ const AboutDetails = () => {
     )
 }
 
-export default AboutDetails
+export default ProjectsDetails
 
 
 
