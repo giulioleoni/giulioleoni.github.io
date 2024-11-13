@@ -137,6 +137,7 @@ const ProjectsDetails = () => {
                         and we developed a platform game, 
                         the particularity of which is that the character can only <strong>jump</strong>, 
                         so you have to carefully calibrate the force of the jump. <br/> <br/>
+                        The theme of the jam was "Roots" and it lasted one week. 
                         We developed this project using <strong>Unreal 4.27 </strong>
                         and it was scripted entirely with <strong>blueprints</strong>. <br/> <br/>
                         It was an extremely exciting experience, I had never participated in anything like that, 
@@ -163,10 +164,8 @@ const ProjectsDetails = () => {
                         The goal was to create a 2d <strong>point-and-click</strong> where you have to explore a 
                         small <strong>map</strong> with various <strong>submaps</strong> to find a key 
                         and open a door that will lead you to the room with treasures. <br/> <br/>
-                        The project was scripted all in <strong>C#</strong>. <br/>
-                        During the year we developed a series of classes and interfaces
-                        which went so far as to create a small <strong>2D engine</strong>. <br/> <br/>
-                        It was stimulating to put together all the knowledge acquired during the course to do a project of this kind. <br/>
+                        The project was scripted all in <strong>C#</strong>, using a <strong>custom 2D engine.</strong> <br/> <br/>
+                        It was stimulating to put together all the knowledge acquired during the course to do such a project. <br/>
                         In particular it allowed me to learn a lot about <strong>pathfinding</strong>, 
                         since the character has to move on a grid and is not controlled by classic input. <br/> <br/>
                         You can find out more by clicking this text box. 
