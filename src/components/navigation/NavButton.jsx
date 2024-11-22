@@ -49,7 +49,7 @@ const NavButton = ({ x, y, label, link, icon, newTab, labelDirection='right' }) 
                     <MotionLink 
                         variants = {item}
                         href={link} 
-                        target={'_blank'}
+                        target={newTab ? "_blank" : "_self"}
                         className='text-foreground rounded-full flex items-center justify-center custom-bg'
                         aria-label={label}
                         name={label} >

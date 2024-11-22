@@ -42,7 +42,7 @@ const AboutDetails = () => {
                 <ItemLayout className={"col-span-full"}>
                     <img 
                     className="w-full h-auto" 
-                    src="https://skillicons.dev/icons?i=c,cs,cpp,discord,github,gmail,lua,unity,unreal,visualstudio,vscode,windows" 
+                    src="https://skillicons.dev/icons?i=c,cs,cpp,cmake,discord,github,gmail,lua,unity,unreal,visualstudio,vscode,windows" 
                     alt="icone"/>
                 </ItemLayout>
             </div>

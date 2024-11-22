@@ -42,7 +42,7 @@ export const BtnList = [
   // { label: "Home", link: "/", icon: "home", newTab: false },
   { label: "About", link: "/about", icon: "about", newTab: false },
   { label: "Projects", link: "/projects", icon: "projects", newTab: false },
-  { label: "Contact", link: "mailto:giulioleoni5@gmail.com", icon: "contact", newTab: false },
+  { label: "Contact", link: "mailto:giulioleoni5@gmail.com", icon: "contact", newTab: true },
   {
     label: "Github",
     link: "https://github.com/giulioleoni",
