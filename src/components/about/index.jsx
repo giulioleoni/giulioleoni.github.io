@@ -35,7 +35,7 @@ const AboutDetails = () => {
                     to deliver fast and <strong>satisfying</strong> results 
                     and to make sure the <strong>creative vision</strong> is achieved in the best possible way. <br /> <br />
                     That's why <strong>I love to develop video games</strong>. <br /> <br />
-                    Check out Linkedin and github to find out more about me and feel free to message me.
+                    Check out github to find out more about my projects and feel free to message me.
                     </p>
                 </ItemLayout>
 
