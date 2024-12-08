@@ -71,7 +71,7 @@ const ProjectsDetails = () => {
                         I worked under the direction of a lead programmer and 
                         it was a new experience for me, with a much higher level of <strong>complexity</strong> than what I was used to, 
                         which allowed me to grow in different ways. <br/> <br/>
-                        I  learnt how to develop <strong>Behaviour Tree</strong> for complex enemies and
+                        I  learnt to develop <strong>Behaviour Tree</strong> for complex enemies and
                         this experience expanded my overall knowledge of Unreal. <br/> <br/>
                         Moreover, by working closely with <strong>game designers</strong> I learnt to <strong>communicate</strong> better, 
                         to understand more about their job and to work on projects with longer time horizons. <br/> <br/>
@@ -118,7 +118,7 @@ const ProjectsDetails = () => {
                         creating something more <strong>organic and structured</strong>, 
                         following a well-defined development process. <br/> <br/>
                         We worked using a <strong>scrum</strong> process,
-                        we did weekly <strong>sprints</strong>, at the end of the week there was a review with our professors 
+                        we doing weekly <strong>sprints</strong>, at the end of the week there was a review with our professors 
                         who also checked the division of <strong>tasks</strong> <br/> (we used Trello to help us). <br/> <br/>
                         You can find out more by clicking this text box. 
                     </p>
