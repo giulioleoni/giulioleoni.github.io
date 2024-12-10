@@ -134,7 +134,7 @@ const ProjectsDetails = () => {
                     <p className="font-thin text-xs sm:text-sm md:text-base">
                         This was the first group project and the first jam I participated in. <br/> <br/>
                         For the <strong>Global Game Jam 2023</strong> I joined a group of students from A.I.V.
-                        and we developed a platform game, 
+                        and we developed a platformer, 
                         the particularity of which is that the character can only <strong>jump</strong>, 
                         so you have to carefully calibrate the force of the jump. <br/> <br/>
                         The theme of the jam was "Roots" and it lasted one week. 
